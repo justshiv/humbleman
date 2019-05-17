@@ -22,6 +22,19 @@ Otherwise, go nuts.
  * proper typings for mrpas
  * proper typings for dungeon-factory
  * extrude tilesets to avoid webgl issues
+ * responsible-reanimation Game idea: You play as a humble peasant who must fight off waves of adventurers who feel entitled to just waltz into your house and loot whatever they please. 
+* Ebmoonblossom LET GO OF MY CHEESE WHEEL YOU JERKFACE 
+* Mjellykitsch Humble Peasant kills adventurers that enter their home 
+* Humble Peasant keeps their weapons, magic items, and hold Humble Peasant realizes that stronger and stronger adventurers are coming to claim their growing pile of loot Humble Peasant builds traps and fortifications to keep them out 
+* Humble Peasant procures exotic pets to help defend their home 
+* Humble Peasant continues to amass more and more loot and attract stronger and stronger adventurers 
+* Humble Peasant has to keep building up and fortifying their home, traps, and pets to keep the adventurers out 
+* Humble Peasant suddenly realizes that they have accidentally built a dungeon. It's a fucking dungeon now. It's fortified and full of traps, monsters, and treasure, and the Humble Peasant is the boss. 
+* Humble Peasant realizes that adventurers will never leave them alone now. 
+* Humble Peasant hates adventurers. 
+* Humble Peasant accidentally becomes major villain. 
+* SMILE+Scratch naming
+
 
 ## Credits
 
